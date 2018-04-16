@@ -1,4 +1,4 @@
 language: c
 sudo: enable
-script: make tests
+script: make test
 install: make dep
